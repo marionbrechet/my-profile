@@ -1,0 +1,93 @@
+/*Colors and fonts */
+.card-white {
+	background: #f1f9f9;
+	margin: 50px auto;
+	padding: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	text-align: center 
+	
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+	
+	 
+}
+
+@media (max-width: 760px) {
+	 .container {
+	 	width: 600px
+	
+	}
+}
+
+
+@media (max-width: 500px) {
+	 .container {
+	 	width: 400px
+	
+	}
+}
+
+
+body {
+	background: #f0ece2;
+	color: #575F7D;
+	font-family: 'Cairo';
+	font-size: 16px;
+	text-align: center;
+
+}
+
+h1 {
+	color:#575F7D ;
+	font-family: 'Courgette';
+	font-size: 48px; 
+	font-weight: 1000;
+
+}
+
+h2 {
+	color: #974949;
+	font-family: 'Courgette';
+	font-size: 24px; 
+	font-weight: 300;
+
+}
+
+a {
+	text-decoration: none;
+	color: #5c4d4d;
+
+
+}
+
+a:hover {
+	color:#ae7c7c;
+
+}
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
